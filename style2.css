@@ -1,0 +1,23 @@
+/* Estilo do título (ID) */
+#titulo {
+    color: purple;
+    text-align: center;
+}
+
+
+.paragrafo1 {
+    color: blue;
+    font-size: 18px;
+}
+
+
+.paragrafo2 {
+    color: green;
+    font-size: 20px;
+}
+
+
+.paragrafo3 {
+    color: red;
+    font-size: 22px;
+}
